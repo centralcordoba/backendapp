@@ -366,3 +366,11 @@ MigrationBackup/
 .vs/slnCots/v15/.suo
 *.cache
 *.cache
+apiAppPet/bin/Debug/netcoreapp2.1/apiAppPet.dll
+apiAppPet/bin/Debug/netcoreapp2.1/apiAppPet.dll
+apiAppPet/bin/Debug/netcoreapp2.1/apiAppPet.pdb
+apiAppPet/bin/Debug/netcoreapp2.1/Repository.dll
+apiAppPet/obj/Debug/netcoreapp2.1/apiAppPet.dll
+apiAppPet/obj/Debug/netcoreapp2.1/apiAppPet.pdb
+Repository/bin/Debug/netcoreapp2.1/Repository.dll
+Repository/obj/Debug/netcoreapp2.1/Repository.dll
