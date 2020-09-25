@@ -12,7 +12,7 @@ namespace Repository
     {
         string conn = "Data Source=DESKTOP-S1UKRBH\\SQLEXPRESS;Initial Catalog=RAM;Integrated Security=True";
 
-        //555dss
+        //555dssd
         public List<Users> GetUsuarios()
         {
             List<Users> lstusers = new List<Users>();
