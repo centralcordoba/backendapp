@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uCcbFMJIvPZ6s4gsEEndMMEs175EbTaG4jBAM6mQ9jWx12HRB4aAWVl7X6xgM6Ac9CDsmaPKAjoxQEOGqIPl8A==",
+  "dgSpecHash": "LyjnTm787yBQQOwufH46fmgqvZ+OZxKLOxXJLnSICOWx0rjyF0f+GmKSGUC7PSef5Bx/7f+VLza0w/wAuYx5CA==",
   "success": true,
-  "projectFilePath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

@@ -26,3 +26,17 @@ C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\s
 C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\slnBackendAppPet\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
 C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\slnBackendAppPet\Repository\obj\Debug\netcoreapp2.1\Repository.dll
 C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\slnBackendAppPet\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\CodeSource\PetsSeptiembre2020\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\CodeSource\PetsSeptiembre2020\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\CodeSource\PetsSeptiembre2020\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\CodeSource\PetsSeptiembre2020\Repository\bin\Debug\netcoreapp2.1\Entities.dll
+C:\CodeSource\PetsSeptiembre2020\Repository\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CodeSource\PetsSeptiembre2020\Repository\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\CodeSource\PetsSeptiembre2020\Repository\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\CodeSource\PetsSeptiembre2020\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\CodeSource\PetsSeptiembre2020\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\CodeSource\PetsSeptiembre2020\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\CodeSource\PetsSeptiembre2020\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\CodeSource\PetsSeptiembre2020\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\CodeSource\PetsSeptiembre2020\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\CodeSource\PetsSeptiembre2020\Repository\obj\Debug\netcoreapp2.1\Repository.pdb

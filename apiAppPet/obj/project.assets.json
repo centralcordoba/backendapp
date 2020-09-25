@@ -12651,11 +12651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\apiAppPet.csproj",
+      "projectUniqueName": "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\apiAppPet.csproj",
       "projectName": "apiAppPet",
-      "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\apiAppPet.csproj",
+      "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\apiAppPet.csproj",
       "packagesPath": "C:\\Users\\iecle\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\obj\\",
+      "outputPath": "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12674,11 +12674,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj"
+            "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj"
             },
-            "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\Repository.csproj"
+            "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\Repository.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\apiAppPet.csproj": {}
+    "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\apiAppPet.csproj": {}
   },
   "projects": {
-    "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\apiAppPet.csproj": {
+    "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\apiAppPet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\apiAppPet.csproj",
+        "projectUniqueName": "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\apiAppPet.csproj",
         "projectName": "apiAppPet",
-        "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\apiAppPet.csproj",
+        "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\apiAppPet.csproj",
         "packagesPath": "C:\\Users\\iecle\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\obj\\",
+        "outputPath": "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj"
+              "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj"
               },
-              "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\Repository.csproj"
+              "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\Repository.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj": {
+    "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj",
+        "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\iecle\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\obj\\",
+        "outputPath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\Repository.csproj": {
+    "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\Repository.csproj",
+        "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\iecle\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Repository\\obj\\",
+        "outputPath": "C:\\CodeSource\\PetsSeptiembre2020\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -172,8 +172,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj"
+              "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj"
               }
             }
           }

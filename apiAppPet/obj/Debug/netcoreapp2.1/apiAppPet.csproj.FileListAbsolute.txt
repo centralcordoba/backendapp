@@ -38,3 +38,27 @@ C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\s
 C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\slnBackendAppPet\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.csproj.CopyComplete
 C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\slnBackendAppPet\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.dll
 C:\CodeSource\Proyectos Mascotas-Pet-Ram\backendAppPetIonic\backendAppPetIonic\slnBackendAppPet\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.pdb
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\appsettings.json
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\apiAppPet.deps.json
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\apiAppPet.runtimeconfig.json
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\apiAppPet.runtimeconfig.dev.json
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\apiAppPet.dll
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\apiAppPet.pdb
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\Entities.dll
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\Repository.dll
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.csprojAssemblyReference.cache
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.AssemblyInfoInputs.cache
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.AssemblyInfo.cs
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.csproj.CoreCompileInputs.cache
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.RazorAssemblyInfo.cache
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.RazorAssemblyInfo.cs
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.RazorTargetAssemblyInfo.cache
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.csproj.CopyComplete
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.dll
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.pdb
+C:\CodeSource\PetsSeptiembre2020\apiAppPet\obj\Debug\netcoreapp2.1\apiAppPet.genruntimeconfig.cache

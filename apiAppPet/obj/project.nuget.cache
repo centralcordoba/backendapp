@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qerCgaQzJKHLlxQ8UVPp+ZGx5TiDWckjMeQRweP7CfO9OpffWnAi9OYFnT1GymbACJiLXN/+dPk8iMQsL+ZYxA==",
+  "dgSpecHash": "mra0en4q9aoDs1WxGUTJiKYxKUmt3WvsqtXfDypOm0IpmTNTFjbPQ0f2MPfKhmZVmh6W1hAzT/F8osq9ByRHTA==",
   "success": true,
-  "projectFilePath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\apiAppPet\\apiAppPet.csproj",
+  "projectFilePath": "C:\\CodeSource\\PetsSeptiembre2020\\apiAppPet\\apiAppPet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iecle\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

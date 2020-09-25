@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\Entities.csproj",
+      "projectPath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\iecle\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeSource\\Ram Codigo\\Ram\\Proyectos Mascotas-Pet-Ram\\backendAppPetIonic\\backendAppPetIonic\\slnBackendAppPet\\Entities\\obj\\",
+      "outputPath": "C:\\CodeSource\\PetsSeptiembre2020\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
