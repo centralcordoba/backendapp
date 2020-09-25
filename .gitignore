@@ -1,0 +1,6 @@
+
+*.dll
+apiAppPet/bin/Debug/netcoreapp2.1/Repository.pdb
+apiAppPet/bin/Debug/netcoreapp2.1/apiAppPet.dll
+*.pdb
+*.dll
