@@ -33,3 +33,9 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 
+*.dll
+*.pdb
+*.pdb
+*.cache
+*.cache
+*.dll
